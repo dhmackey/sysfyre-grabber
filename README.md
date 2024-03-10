@@ -1,35 +1,13 @@
-<a id="top"></a>
+# Sysfyre Grabber
 
-#
-
-<h1 align="center">
-⚔️ Doenerium 🛡️
-</h1>
-
-<p align="center"> 
-  <kbd>
-<img src="https://images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%3Fsize%3D96%26quality%3Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp" width="328"></img>
-  </kbd>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/doenerium69/doenerium?style=flat">
-<img src="https://img.shields.io/github/stars/doenerium69/doenerium?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doenerium69/doenerium?color=brightgreen">
-</p>
-
-<p align="center">
-  Telegram server: https://t.me/doenerium
- </p>
-
-## 🌐 〢 Content
-
-- [📁 Setting up](#setup)
-- [⚔️ Features](#features)
-- [📸 Screenshots](#screenshot)
-- [📝 Todo](#todo)
-- [📜 License](#license)
-- [⚠️ Note](#note)
+|     〢 Table of Contents 〢       |
+|-----------------------------------|
+| [📁 Setting up](#setup)          |
+| [⚔️ Features](#features)         |
+| [📸 Screenshots](#screenshot)    |
+| [📝 Todo](#todo)                 |
+| [📜 License](#license)           | 
+| [⚠️ Note](#note)                 |
 
 <a id="setup"></a>
 
