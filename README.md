@@ -2,7 +2,7 @@
 
 ---
 
-|     〢 Table of Contents 〢       |
+|        Table of Contents          |
 |-----------------------------------|
 | [📁 Setup & Requirements](#setup)|
 | [⚔️ Features](#features)         |
