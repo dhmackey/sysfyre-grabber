@@ -1,13 +1,13 @@
-# Sysfyre Grabber
+# ⚠️ Sysfyre Grabber ⚠️
+
+---
 
 |     〢 Table of Contents 〢       |
 |-----------------------------------|
 | [📁 Setup & Requirements](#setup)|
 | [⚔️ Features](#features)         |
-| [📸 Screenshots](#screenshots)    |
-| [📝 Todo](#to-do)                 |
-| [📜 License](#license)           | 
-| [⚠️ Note](#disclaimer)                 |
+| [📝 Todo](#to-do)                |
+| [📜 License](#license)           |
 
 <a id="setup"></a>
 
@@ -15,7 +15,7 @@
 
 ## 📁 Setup // Requirements
 
- Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.15.0`
+Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.15.0`
  
 ***VERY IMPORTANT***: When installing Node.js also install **"Tools for Native Modules"** => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
 
@@ -115,26 +115,6 @@ Run **_build.bat_** and wait for a file with a similar name to **_doenerium_8AnB
 >
 > Automatic obfuscation when building
 
-<a id="screenshots"></a>
-
----
-
-## 📸 Screenshots
-
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/6.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/7.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/8.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/9.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/10.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/12.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/13.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/14.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/15.jpg?raw=true" alt="" width="539">
-<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="639">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/11.png?raw=true" alt="" width="639">
-
-
 <a id="to-do"></a>
 
 ---
@@ -151,20 +131,18 @@ Run **_build.bat_** and wait for a file with a similar name to **_doenerium_8AnB
 
 ---
 
-## 📜 〢 License
+## 📜 License
 
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/).
 
-<a id="disclaimer"></a>
-
 ---
 
-### ⚠️ Disclaimer
+#### Disclaimer
 
 I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
 
-### Credits
+#### Credits
 
-Credits to Pandoric / PandoricGalaxy for creating this beautiful README file
+Credits to all prior contributors to doernium for creating this beautiful project for me to fork.
 
 <p align="center"><a href=#top>Back to Top</a></p>
