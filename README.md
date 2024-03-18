@@ -6,7 +6,7 @@
 |-----------------------------------|
 | [📁 Setup & Requirements](#setup)|
 | [⚔️ Features](#features)         |
-| [📝 Todo](#to-do)                |
+| [📝 To-Do](#to-do)                |
 | [📜 License](#license)           |
 
 <a id="setup"></a>
